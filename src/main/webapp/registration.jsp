@@ -80,5 +80,6 @@
             <button type="submit">Register Now</button>
         </form>
     </div>
+    <div>Hello World</div>
 </body>
 </html>

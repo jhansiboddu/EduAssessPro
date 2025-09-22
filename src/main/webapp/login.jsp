@@ -69,6 +69,8 @@
             <input type="submit" value="Login">
         </form>
         <p>Hello from auto-grade branch</p>
+        <p>first line</p>
+        <p>second line</p>
     </div>
 </body>
 </html>

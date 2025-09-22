@@ -68,7 +68,7 @@
             <input type="password" name="password" placeholder="Enter Password" required>
             <input type="submit" value="Login">
         </form>
-        <h1>Intentionally Created Conflict</h1>
+        <p>Hello from auto-grade branch</p>
     </div>
 </body>
 </html>

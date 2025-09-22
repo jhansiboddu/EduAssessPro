@@ -1,0 +1,13 @@
+diff --git a/src/main/webapp/login.jsp b/src/main/webapp/login.jsp
+index 601c32e..7654c3d 100644
+--- a/src/main/webapp/login.jsp
++++ b/src/main/webapp/login.jsp
+@@ -69,6 +69,8 @@
+             <input type="submit" value="Login">
+         </form>
+         <p>Hello from auto-grade branch</p>
++        <p>first line</p>
++        <p>second line</p>
+     </div>
+ </body>
+ </html>

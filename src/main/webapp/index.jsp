@@ -65,6 +65,6 @@
         <a href="registration.jsp" class="register">Register for Exam</a>
         <a href="login.jsp" class="login">Login</a>
     </div>
-    <div>Hello from main branch</div>
+    <div>Hello from Auto-Grade</div>
 </body>
 </html>
